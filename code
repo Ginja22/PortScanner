@@ -1,4 +1,10 @@
+# Thanks to  Coach "Ty" Garrett
+# Thanks to all of the python fans in 'Stackoverflow.com'
+# Thanks to 'geeksforgeeks.com'
+# Thank you 'MOM' lol
+# Last but not least Thank you Carlos!
 #ProjectB
+
 import sys
 from pyfiglet import Figlet
 import datetime
